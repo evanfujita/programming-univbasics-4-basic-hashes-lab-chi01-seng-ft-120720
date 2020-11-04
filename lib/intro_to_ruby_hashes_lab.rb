@@ -18,5 +18,4 @@ def id_hash_generator(number)
   hash = {
     id: number
   }
-  hash[:id]
 end
